@@ -1,4 +1,4 @@
-Chapter 6 무식하게 풀기
+<h1>Chapter 6 무식하게 풀기</h1>
 
 보글 게임(ID:BOGGLE)
 소풍(ID:PICNIC)
